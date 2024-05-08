@@ -1,6 +1,12 @@
-# React + Vite
+# React + Vite + Cloudinary
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Web Page were you can add your favourite animals with there cute images.
+
+- It's complete frontend project where you can add , update and delete.
+- For Image I used cloudinary service and use the generated url to show the images.
+- Creating Context to avoid prop drilling.
+
+  
 
 Currently, two official plugins are available:
 
